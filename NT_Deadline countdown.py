@@ -1,3 +1,11 @@
+""""NHÓM NT
+1. Hoàng Thị Phương Nguyên K214060403
+2. Phạm Nguyễn Thanh Tân-K214060411
+3. Lê Bảo Phương Nhi-K214060406
+4. Nguyễn Ngọc Phương Trúc-K214060419
+5. Nguyễn Trọng Nghĩa-K214060403"""
+
+
 from datetime import *
 
 task = []
